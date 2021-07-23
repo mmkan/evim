@@ -5,38 +5,10 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <h3 align="center">Easyvim</h3>
-
-  <p align="center">
-    Easyvim
-    <br />
-    <a href="https://github.com/r1024/easyvim"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/r1024/easyvim">View Demo</a>
-    ·
-    <a href="https://github.com/r1024/easyvim/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/r1024/easyvim/issues">Request Feature</a>
-  </p>
-</p>
-
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-project)
+* [项目简介](#项目简介)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
@@ -47,7 +19,7 @@
 * [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## 项目简介
 
 VIM配置，支持以下特性：
 
