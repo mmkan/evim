@@ -9,14 +9,11 @@
 ## Table of Contents
 
 * [项目简介](#项目简介)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Contributing](#contributing)
+* [安装指引](#安装指引)
+  * [VIM版本及依赖软件](#VIM版本及依赖软件)
+  * [配置安装](#配置安装)
+* [使用方法](#使用方法)
 * [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
 ## 项目简介
@@ -52,14 +49,16 @@ cd ~/.vim && ./install.sh
 
 <!-- USAGE EXAMPLES -->
 ## 使用方法
-- F5: 打开/关闭文件浏览
-- F6: 打开/关闭Undotree
-- F7: 美化当前文件格式
-- F8: 按照=对齐
+- F5: 打开/关闭文件浏览窗口
+- F6: 打开/关闭Undotree窗口
+- F7: 美化当前文件格式，例如缩进
+- F8: 选择区域按照`=`对齐
+
+- ,k: 高亮/取消高亮光标所在单词
+- ,K: 取消所有高亮单词
 
 - C-b: 在当前buffer中查找光标所在单词
 - C-f: 在指定目录下查找光标所在单词
-
 - ,ld: 跳转到函数定义处
 - ,lr: 跳转到函数引用处
 
