@@ -33,9 +33,8 @@
 
 ### VIM版本及依赖软件
 
-1. 安装vim版本8.0+，支持python3;
-2. 安装[ctags](https://github.com/universal-ctags/ctags.git);
-3. 安装`ripgrep` `nodejs`
+1. 安装 vim 版本 8.0+，支持 python3;
+2. 安装`gtags` `ripgrep` `nodejs`
 
 ### 配置安装
 
