@@ -23,8 +23,11 @@
 
 VIM配置，支持以下特性：
 
-1. basic和plugin配置分离;
-2. 支持函数查找和函数高亮
+1. `vim-plug`插件管理
+2. `nerdtree` `vim-choosewin` `vim-airline` 文件/窗口/状态栏管理
+3. `undotree` `vim-autoformat` `tabular` `nerdcommenter` 代码编辑插件
+4. `vim-interestingwords` `Leaderf` 关键字高亮/搜索
+5. `coc.nvim` 自动补全
 
 <!-- GETTING STARTED -->
 ## Getting Started
